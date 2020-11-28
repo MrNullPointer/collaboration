@@ -1,2 +1,2 @@
-Just a basic file.
+# Testing how to collaborate on gitHub.
 
